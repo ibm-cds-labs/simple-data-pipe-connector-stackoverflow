@@ -1,5 +1,7 @@
 # Simple Data Pipe connector for Stack Overflow
 
+:no_entry_sign: This project is no longer maintained
+
 This connector uses the [Stack Exchange API](https://api.stackexchange.com/) to fetch the newest Stack Overflow questions for a selected tag.
 
 The [Simple Data Pipe SDK](https://github.com/ibm-cds-labs/simple-data-pipe-sdk) is used to store the data in Cloudant. One JSON record is created for each question:
